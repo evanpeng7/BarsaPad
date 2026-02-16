@@ -18,7 +18,7 @@ The plate and bottom case will be screwed together by 4 M3 screws with use of he
 # PCB
 Schematic and PCB:
 <img width="953" height="648" alt="Screenshot 2026-02-15 at 11 38 27 AM" src="https://github.com/user-attachments/assets/034ce62c-3ce9-4f58-b2c8-d08ebd739180" />
-<img width="774" height="597" alt="Screenshot 2026-02-15 at 11 40 22 AM" src="https://github.com/user-attachments/assets/ce951758-d2e8-4ee6-8f48-ea7247371118" />
+<img width="905" height="641" alt="Screenshot 2026-02-16 at 11 15 21 AM" src="https://github.com/user-attachments/assets/58129d08-f5ad-42ed-945f-5d7237b1a5cb" />
 
 Designed with KiCad
 
